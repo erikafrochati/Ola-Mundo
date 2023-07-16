@@ -1,4 +1,3 @@
-# Olá, Mundo!
- Primeiro repositório do curso de Git e GitHub
-
- Repositório criado durante uma aula!
+# Olá, Mundo - ‘Hello World’
+ 
+<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" />
